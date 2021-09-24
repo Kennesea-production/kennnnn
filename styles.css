@@ -56,7 +56,7 @@ body{
     border-width: 7px;
 }
 .bg{
-    height: 470px;
+    height: auto;
     max-width: 50%;
     width: 50%;
     background-color: rgb(54, 53, 63);
